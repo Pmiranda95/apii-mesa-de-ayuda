@@ -1,0 +1,25 @@
+{
+  "name": "apii-mesa-de-ayuda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pmiranda95/apii-mesa-de-ayuda.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pmiranda95/apii-mesa-de-ayuda/issues"
+  },
+  "homepage": "https://github.com/Pmiranda95/apii-mesa-de-ayuda#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.11",
+    "swagger-jsdoc": "^6.1.0",
+    "swagger-ui-express": "^4.1.6"
+  }
+}

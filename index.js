@@ -9,10 +9,10 @@ const mongoose =  require('mongoose');
 const swaggerOption = {
     swaggerDefinition:{
         info:{
-            title:'Api web',
-            description:'Customer Api information',
+            title:'Mesa de Ayuda',
+            description:'Api information',
             contact:{
-                name:'Amazing developer'
+                name:'Sistemas distribuidos'
             },
             server:["http://localhost:3000"]
         }
